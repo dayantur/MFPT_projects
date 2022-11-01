@@ -1,10 +1,5 @@
-# scikit-learn_projects
-Projects made with the helps of scikit-learn libraries.
+# MFPT_projects
+Projects on Mean First Passage Time made with python.
 
--- kmeans projects
-- kmeans_random
-- kmeans_airline_delay [ongoing]
-
--- decisional trees
-
--- regressions
+-- MFPT
+- jupyther notebook for MFPT over coloured networks.
